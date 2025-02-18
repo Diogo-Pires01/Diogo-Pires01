@@ -1,9 +1,5 @@
 ## Olá! Eu sou o Diogo Pires 🖐️
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diogo-Pires01&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-Pires01&hide_progress=false&theme=dark"/>
-</div>
 <div style="display: inline_block"><br> 
   <img align="center" alt="Diogo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Diogo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
