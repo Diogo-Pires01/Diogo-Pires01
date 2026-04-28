@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript" />
   <img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6" />
 </p>
 
 ---
@@ -21,6 +21,6 @@
     <img src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/diogo-pires-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
