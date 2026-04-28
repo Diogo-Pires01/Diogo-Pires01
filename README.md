@@ -1,16 +1,26 @@
 ## Olá! Eu sou o Diogo Pires 🖐️
 
+💻 Desenvolvedor Web
+
+### 🚀 Tecnologias
+
 <p>
-  <img height="30" style="margin-right: 20px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img height="30" style="margin-right: 20px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img height="30" style="margin-right: 20px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img height="30" style="margin-right: 20px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3" />
 </p>
-  
-  ##
- 
-<div> 
-  <a href = "mailto:contatosdiogo155@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/diogo-pires-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+
+---
+
+### 📫 Contato
+
+<p>
+  <a href="mailto:contatosdiogo155@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/diogo-pires-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
